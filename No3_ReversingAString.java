@@ -35,16 +35,6 @@ public class No3_ReversingAString {
 		
 		System.out.println(output1);
 		
-//		int newAr[] = {1,2,4,5,6,8,54,3,22,1};
-//		int min = Arrays.stream(newAr).min().getAsInt();
-//		
-//		System.out.println(min);
-//		
-//		int max = Arrays.stream(newAr).max().getAsInt();
-//		System.out.println(max);
-//		
-//		int max1 = Arrays.asList(1,2,4,5,6,8,54,3,22,1).stream().max(Integer::compare).get();
-//		System.out.println(max1);
 	}
 
 }
