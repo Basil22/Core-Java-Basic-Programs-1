@@ -1,7 +1,8 @@
 Part - 1
 
-These are 10 basic core java programs.
+These are 10 basic java programs.
 Some programs have been solved using Java 8.
+If there are any faster ways of solving these, feel free to raise a PR.
 
 1) print helloworld 10 times.
     o/p=  Hello world 1
